@@ -4,7 +4,7 @@ This program is a simple Bank Account Management System that allows users to reg
 
 ## Technologies Used
 1. C programming language
-2. File I/O operations
+2. File Input/Output (I/O) operations
 3. Structs
 
 
